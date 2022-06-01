@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"module": "ES6",
+		"moduleResolution": "Node",
+		"target": "ESNext",
+		"allowJs": true
+		// "checkJs": false,
+		// "alwaysStrict": true,
+		// "strict": true,
+		// "strictNullChecks": false,
+		// "noImplicitAny": false
+	},
+	"exclude": ["node_modules", "**/node_modules/*"]
+	// "typeAcquisition": { "exclude": ["node"] }
+}
